@@ -1,2 +1,2 @@
 # github-essentials
-# This is a minor change
+# I've added a new description
